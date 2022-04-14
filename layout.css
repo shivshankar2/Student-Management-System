@@ -1,0 +1,9 @@
+.accont{
+    border: solid;
+    border-color: #333;
+    height: 500;
+    width: 450;
+}
+.body{
+    background-color: aqua;
+}
